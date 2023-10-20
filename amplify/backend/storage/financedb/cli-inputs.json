@@ -1,0 +1,12 @@
+{
+  "resourceName": "financedb",
+  "policyUUID": "ee2bcdcd",
+  "bucketName": "serverlessreactapp04d736a22a9b40ce98c22cc838e8f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
